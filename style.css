@@ -1,0 +1,22 @@
+.symbol h1{
+    display: block;
+    font-family: "caudex",serif, "Bold 700 Italic";
+    font-size: 42px;
+    border-top: solid lightgrey;
+    border-bottom: solid darkgrey;
+    padding: 10px;
+
+    
+}
+nav ul li{
+    display: inline-flex;
+    padding-right: 50px;
+    justify-content: flex-end;
+    
+    
+
+}
+nav ul{
+    justify-content: flex-end;
+
+}
